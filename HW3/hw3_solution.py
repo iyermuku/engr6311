@@ -7,7 +7,7 @@ This script solves all parts of Assignment 3:
 - Part II: Free vibration analysis (mode shapes, natural frequencies)
 - Part III: Forced vibration with damping (frequency response)
 
-Author: Solution Script
+Author: Mukund Rajamony
 Date: March 2026
 """
 
