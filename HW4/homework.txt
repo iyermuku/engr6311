@@ -1,0 +1,9 @@
+Part I. Consider the lateral vibrations of a uniform string that is fixed at both ends. 
+Obtain the modal equations when a linear viscous damper is attached to an arbitrary 
+point along the string. 
+
+Part II. Consider the lateral vibrations of a uniform beam that is pinned at both ends. 
+An external harmonic force is applied at the center of the beam. Use a single-mode 
+approximation to obtain the equation for the first mode of the beam. Consider finite 
+but small rotations of the beam by including the first nonlinear term when 
+approximating the beam curvature. 

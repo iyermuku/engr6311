@@ -1,0 +1,32 @@
+[Part I Parameters]
+L=1.2
+tension=120.0
+rhoA=0.08
+c_d=0.35
+x_d=0.37
+n_modes=6
+
+[Part I Key Results]
+modal_mass=0.04800000
+omega_1=101.39446690
+omega_6=608.36680140
+C11=0.23771439
+C12=0.26928583
+
+[Part II Parameters]
+L=1.0
+EI=65.0
+rhoA=0.75
+F0=0.45
+Omega=84.53053532956146
+damping_ratio=0.02
+
+[Part II Key Results]
+M=0.37500000
+C=1.37821525
+K=3165.79545861
+K3=46867.72318680
+omega1=91.88101666
+beta=124980.59516479
+linear_peak_q=0.00132487
+nonlinear_peak_q=0.00132493
